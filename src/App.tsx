@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div>
-        <b>Niz</b>
+        <b>Nizaaa</b>
         <hr />
       </div>
       <Grid />
