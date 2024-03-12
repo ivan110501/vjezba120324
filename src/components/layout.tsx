@@ -8,6 +8,7 @@ const Layout = ({ children }: Props) => {
   return (
     <>
       <div className="layout">{children}</div>
+      <div>Update</div>
     </>
   );
 };
